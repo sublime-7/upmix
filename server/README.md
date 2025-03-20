@@ -1,4 +1,4 @@
-# Backend for Mixup Recipe Sharing Site
+# Backend for Recipe Sharing Site
 
 This repository contains the backend code for the Mixup Recipe Sharing Site built using Node.js, Express, and MongoDB Atlas. It provides a RESTful API for managing user authentication and recipe data.
 
@@ -31,10 +31,4 @@ This repository contains the backend code for the Mixup Recipe Sharing Site buil
 - [npm](https://www.npmjs.com/)
 - A MongoDB Atlas account with a configured cluster
 
-## Installation
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/athulns/backend.git
-   cd backend
